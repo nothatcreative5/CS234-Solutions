@@ -1,4 +1,4 @@
-# CS234: Reinforcement Learning (Spring 2022)
+# CS234: Reinforcement Learning (Winter 202)
 This repository contains my solutions to the assignments of the CS234: Reinforcement Learning course offered by Stanford University. The assignments cover topics such as Markov Decision Processes, Dynamic Programming, Monte Carlo methods, Temporal Difference learning, Deep Reinforcement Learning, and Multi-Agent RL.
 
 ## Assignments
